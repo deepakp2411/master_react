@@ -94,7 +94,7 @@ const skills = {
           fontAwesomeClassname: "simple-icons:github",
           style: {
             backgroundColor: "#000000",
-            color: "white",
+            color: "#61DAFB",
           },
         },
         {
@@ -109,7 +109,7 @@ const skills = {
           skillName: "Python",
           fontAwesomeClassname: "simple-icons:python",
           style: {
-            backgroundColor: "white",
+            backgroundColor: "#61DAFB",
             color: "yellow",
           },
         },
@@ -167,13 +167,6 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
-        {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
           style: {
@@ -199,13 +192,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:mongodb",
           style: {
             color: "#47A248",
-          },
-        },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
           },
         },
       ],
@@ -325,12 +311,12 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "pavan_kumar.png",
+    profile_image_path: "deepak_patel.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
   blogSection: {
-    title: "Website",
+    title: "",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
     link: "https://mg143pavankumar.medium.com/",
